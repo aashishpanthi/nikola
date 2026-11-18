@@ -1,0 +1,12 @@
+[Core]
+name = import_hugo
+module = import_hugo
+
+[Documentation]
+author = Aashish Panthi and Amin Charba
+version = 0.1
+website = https://getnikola.com/
+description = Import Markdown posts from a small Hugo site, with redirects from the old URLs.
+
+[Nikola]
+PluginCategory = Command
